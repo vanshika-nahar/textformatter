@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.86ce2796.css","mappings":"AAAA,KACE,iBACF,CAEA,KACE,qBAAuB,CACvB,UACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\n.nav {\n  background-color: black;\n  color: white;\n}"],"names":[],"sourceRoot":""}
