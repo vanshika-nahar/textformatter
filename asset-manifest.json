@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUTils-app/static/css/main.86ce2796.css",
-    "main.js": "/TextUTils-app/static/js/main.a55e67d7.js",
-    "static/js/787.719ec76d.chunk.js": "/TextUTils-app/static/js/787.719ec76d.chunk.js",
-    "index.html": "/TextUTils-app/index.html",
-    "main.86ce2796.css.map": "/TextUTils-app/static/css/main.86ce2796.css.map",
-    "main.a55e67d7.js.map": "/TextUTils-app/static/js/main.a55e67d7.js.map",
-    "787.719ec76d.chunk.js.map": "/TextUTils-app/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/textformatter/static/css/main.86ce2796.css",
+    "main.js": "/textformatter/static/js/main.807211c4.js",
+    "static/js/787.8ae2077a.chunk.js": "/textformatter/static/js/787.8ae2077a.chunk.js",
+    "index.html": "/textformatter/index.html",
+    "main.86ce2796.css.map": "/textformatter/static/css/main.86ce2796.css.map",
+    "main.807211c4.js.map": "/textformatter/static/js/main.807211c4.js.map",
+    "787.8ae2077a.chunk.js.map": "/textformatter/static/js/787.8ae2077a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86ce2796.css",
-    "static/js/main.a55e67d7.js"
+    "static/js/main.807211c4.js"
   ]
 }
